@@ -1,6 +1,6 @@
 # VmessUtils
 
-VmessUtils consist of a bundle of python scripts that works with vmess:// format and the subscription.
+VmessUtils consist of a bundle of python scripts that works with vmess:// format and the subscription..
 
 Formerly named vmess2json, is one of the scripts in the project.
 
